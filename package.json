@@ -1,0 +1,21 @@
+{
+  "name": "electric",
+  "version": "1.0.0",
+  "description": "a project for learning",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "electric",
+    "vehicle"
+  ],
+  "author": "404 NOT FOuND",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
